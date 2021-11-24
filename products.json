@@ -1,0 +1,308 @@
+{
+  "200828":
+   [
+      {
+        "id": 5374325,
+        "stock_id": 308368,
+        "stock_article": null,
+        "selections": [
+          {
+            "selection": 11,
+            "label": "11",
+            "price": 8,
+            "pricelist": null,
+            "pricelist_type": null,
+            "payment_device_type": null
+          }
+        ],
+        "type": "PRODUCT",
+        "name": "Farmer Salade",
+        "units": null,
+        "amount": 4,
+        "amount_max": 2,
+        "amount_standart": 1,
+        "amount_critical": 1,
+        "refill_unit_size": 1,
+        "min_refill": 1,
+        "refillable": true,
+        "last_purchase": null,
+        "currency": "EUR",
+        "recipe": null,
+        "ingredient_line": null,
+        "critical": false,
+        "extraction_time_enabled": null,
+        "min_extraction_time": null,
+        "max_extraction_time": null
+      },
+      {
+        "id": 5374326,
+        "stock_id": 308367,
+        "stock_article": null,
+        "selections": [
+          {
+            "selection": 12,
+            "label": "12",
+            "price": 2.5,
+            "pricelist": null,
+            "pricelist_type": null,
+            "payment_device_type": null
+          }
+        ],
+        "type": "PRODUCT",
+        "name": "Koudeschotel",
+        "units": null,
+        "amount": 0,
+        "amount_max": 20,
+        "amount_standart": 1,
+        "amount_critical": 3,
+        "refill_unit_size": 1,
+        "min_refill": 1,
+        "refillable": true,
+        "last_purchase": null,
+        "currency": "EUR",
+        "recipe": null,
+        "ingredient_line": null,
+        "critical": false,
+        "extraction_time_enabled": null,
+        "min_extraction_time": null,
+        "max_extraction_time": null
+      },
+      {
+        "id": 5374327,
+        "stock_id": 308366,
+        "stock_article": null,
+        "selections": [
+          {
+            "selection": 13,
+            "label": "13",
+            "price": 5,
+            "pricelist": null,
+            "pricelist_type": null,
+            "payment_device_type": null
+          }
+        ],
+        "type": "PRODUCT",
+        "name": "Groenten wrap",
+        "units": null,
+        "amount": 1,
+        "amount_max": 15,
+        "amount_standart": 1,
+        "amount_critical": 2,
+        "refill_unit_size": 1,
+        "min_refill": 1,
+        "refillable": true,
+        "last_purchase": null,
+        "currency": "EUR",
+        "recipe": null,
+        "ingredient_line": null,
+        "critical": false,
+        "extraction_time_enabled": null,
+        "min_extraction_time": null,
+        "max_extraction_time": null
+      }
+   ],
+  "272583":
+   [
+     {
+       "id": 5374325,
+       "stock_id": 308368,
+       "stock_article": null,
+       "selections": [
+         {
+           "selection": 11,
+           "label": "11",
+           "price": 8,
+           "pricelist": null,
+           "pricelist_type": null,
+           "payment_device_type": null
+         }
+       ],
+       "type": "PRODUCT",
+       "name": "Groenten mix",
+       "units": null,
+       "amount": 1,
+       "amount_max": 2,
+       "amount_standart": 1,
+       "amount_critical": 1,
+       "refill_unit_size": 1,
+       "min_refill": 1,
+       "refillable": true,
+       "last_purchase": null,
+       "currency": "EUR",
+       "recipe": null,
+       "ingredient_line": null,
+       "critical": false,
+       "extraction_time_enabled": null,
+       "min_extraction_time": null,
+       "max_extraction_time": null
+     },
+     {
+       "id": 5374326,
+       "stock_id": 308367,
+       "stock_article": null,
+       "selections": [
+         {
+           "selection": 12,
+           "label": "12",
+           "price": 2.5,
+           "pricelist": null,
+           "pricelist_type": null,
+           "payment_device_type": null
+         }
+       ],
+       "type": "PRODUCT",
+       "name": "Sallade ala Henk",
+       "units": null,
+       "amount": 0,
+       "amount_max": 20,
+       "amount_standart": 1,
+       "amount_critical": 3,
+       "refill_unit_size": 1,
+       "min_refill": 1,
+       "refillable": true,
+       "last_purchase": null,
+       "currency": "EUR",
+       "recipe": null,
+       "ingredient_line": null,
+       "critical": false,
+       "extraction_time_enabled": null,
+       "min_extraction_time": null,
+       "max_extraction_time": null
+     },
+     {
+       "id": 5374327,
+       "stock_id": 308366,
+       "stock_article": null,
+       "selections": [
+         {
+           "selection": 13,
+           "label": "13",
+           "price": 5,
+           "pricelist": null,
+           "pricelist_type": null,
+           "payment_device_type": null
+         }
+       ],
+       "type": "PRODUCT",
+       "name": "Farmer salade",
+       "units": null,
+       "amount": 3,
+       "amount_max": 15,
+       "amount_standart": 1,
+       "amount_critical": 2,
+       "refill_unit_size": 1,
+       "min_refill": 1,
+       "refillable": true,
+       "last_purchase": null,
+       "currency": "EUR",
+       "recipe": null,
+       "ingredient_line": null,
+       "critical": false,
+       "extraction_time_enabled": null,
+       "min_extraction_time": null,
+       "max_extraction_time": null
+     }
+   ],
+  "292920":
+  [
+    {
+      "id": 5374325,
+      "stock_id": 308368,
+      "stock_article": null,
+      "selections": [
+        {
+          "selection": 11,
+          "label": "11",
+          "price": 8,
+          "pricelist": null,
+          "pricelist_type": null,
+          "payment_device_type": null
+        }
+      ],
+      "type": "PRODUCT",
+      "name": "Farmer Salade",
+      "units": null,
+      "amount": 2,
+      "amount_max": 2,
+      "amount_standart": 1,
+      "amount_critical": 1,
+      "refill_unit_size": 1,
+      "min_refill": 1,
+      "refillable": true,
+      "last_purchase": null,
+      "currency": "EUR",
+      "recipe": null,
+      "ingredient_line": null,
+      "critical": false,
+      "extraction_time_enabled": null,
+      "min_extraction_time": null,
+      "max_extraction_time": null
+    },
+    {
+      "id": 5374326,
+      "stock_id": 308367,
+      "stock_article": null,
+      "selections": [
+        {
+          "selection": 12,
+          "label": "12",
+          "price": 2.5,
+          "pricelist": null,
+          "pricelist_type": null,
+          "payment_device_type": null
+        }
+      ],
+      "type": "PRODUCT",
+      "name": "Koudeschotel",
+      "units": null,
+      "amount": 0,
+      "amount_max": 20,
+      "amount_standart": 1,
+      "amount_critical": 3,
+      "refill_unit_size": 1,
+      "min_refill": 1,
+      "refillable": true,
+      "last_purchase": null,
+      "currency": "EUR",
+      "recipe": null,
+      "ingredient_line": null,
+      "critical": false,
+      "extraction_time_enabled": null,
+      "min_extraction_time": null,
+      "max_extraction_time": null
+    },
+    {
+      "id": 5374327,
+      "stock_id": 308366,
+      "stock_article": null,
+      "selections": [
+        {
+          "selection": 13,
+          "label": "13",
+          "price": 5,
+          "pricelist": null,
+          "pricelist_type": null,
+          "payment_device_type": null
+        }
+      ],
+      "type": "PRODUCT",
+      "name": "Groenten wrap",
+      "units": null,
+      "amount": 1,
+      "amount_max": 15,
+      "amount_standart": 1,
+      "amount_critical": 2,
+      "refill_unit_size": 1,
+      "min_refill": 1,
+      "refillable": true,
+      "last_purchase": null,
+      "currency": "EUR",
+      "recipe": null,
+      "ingredient_line": null,
+      "critical": false,
+      "extraction_time_enabled": null,
+      "min_extraction_time": null,
+      "max_extraction_time": null
+    }
+ ]
+}
